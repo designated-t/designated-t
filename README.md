@@ -4,9 +4,9 @@
 with inspirations in unofficial genres like Arcanepunk, some official like Steampunk, Gothic Fiction, and Universes of their own,
 such as Final Fantasy, Spiral Knights, and a lot more.
 
-- 🌱 I’m currently learning Java and PHP. Full Stack Developer, backend lean
+- 🌱 I’m currently abled in Java, NodeJS, but am learning React and Typescript! Junior Full Stack Developer, backend lean
 
-- 💞️ I’m looking to collaborate on nothing atm
+- 💞️ I’m looking to collaborate on anything!
 
 - 📫 How to reach me discord @bLAZIKEN sKYWALKER#5312, linkedin https://www.linkedin.com/in/o-andre-graca/, and email at andrealmeida01e@gmail.com
 
