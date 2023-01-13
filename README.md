@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @designated-t
 
-- 👀 I’m interested in everything STEM, Poetry and Writing in general(I personally write Lovecraftian Fantastical Horror, 
+- 👀 I’m interested in everything STEM, Poetry and Writing in general, I personally write Lovecraftian Fantastical Horror, 
 with inspirations in unofficial genres like Arcanepunk, some official like Steampunk, Gothic Fiction, and Universes of their own,
 such as Final Fantasy, Spiral Knights, and a lot more.
 
