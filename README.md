@@ -4,7 +4,7 @@
 with inspirations in unofficial genres like Arcanepunk, some official like Steampunk, Gothic Fiction, and Universes of their own,
 such as Final Fantasy, Spiral Knights, and a lot more.
 
-- 🌱 I’m currently abled in Java, NodeJS, but am learning React and Typescript! Junior Full Stack Developer, backend lean
+- 🌱 I’m currently abled in Java, but am honing C#! Junior Backend Developer
 
 - 💞️ I’m looking to collaborate on anything!
 
